@@ -7,7 +7,7 @@ EchoMusic 官方插件源、开发文档与示例插件仓库。
 在 EchoMusic 的“插件管理”中添加以下 GitHub 插件源：
 
 ```text
-https://github.com/hoowhoami/EchoMusicPlugins
+https://github.com/xiaoliu9451-dot/EchoMusicPlugins
 ```
 
 仓库根目录的 [`echo-plugins.json`](echo-plugins.json) 只维护插件索引；名称、版本、作者、入口、能力和兼容性要求均以各插件目录中的 `manifest.json` 为准。
